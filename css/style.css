@@ -89,3 +89,42 @@ nav ul li a:hover {
     font-size: 40px;
     margin-bottom: 20px;
 }
+}
+.depoimentos h2{
+    color: #000;
+}
+
+.titulo,.servicos h2 {
+    color: #fff;
+    font-size:30px;
+    text-transform: uppercase;
+    font-weight: 900;
+    text-align: center;
+
+}
+.servicos h2{
+font-size: 40px;
+margin-bottom: 20px;
+}
+.depoimentos h2{
+color: #000;
+}
+.item{
+display:inline-block;
+width:33%;
+padding: 1%;
+text-align: justify;
+}
+.item img{
+width: 100px;
+float: left;
+margin-right:15px
+}
+.item .cliente {
+padding-top:45px;
+margin-left:10px;
+
+}
+.item p {
+margin-bottom: 20px;
+}

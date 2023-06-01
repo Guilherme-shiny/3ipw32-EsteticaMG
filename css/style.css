@@ -113,8 +113,8 @@ color: #000;
 display:inline-block;
 width:31%;
 padding: 1%;
-text-align: justify;
-font-weight: 900;
+text-align: center;
+font-weight: 900px;
 margin-bottom: 20px;
 }
 .item img{
@@ -176,8 +176,18 @@ footer ul li{
  padding: 5px 10px;
  margin: 5px;
 }
-img {
+.mario img {
     text-align: left;
-    width: 400px;
-    height: 300px;
+    width: 500px;
+    height: 400px;
+}.sobre{
+    line-height: 30px;
+    font-size: 20px;
+}
+.sobre img{
+    margin: 0 auto;
+}
+header {
+    height: 145px;
+
 }

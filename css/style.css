@@ -185,9 +185,22 @@ footer ul li{
     font-size: 20px;
 }
 .sobre img{
-    margin: 0 auto;
+    line-height: 30px;
+    font-size: 20px;
 }
 header {
     height: 145px;
 
+}
+.sidebar{
+    width: 165px;
+    border-left: 5px solid #FFC905;
+    font-size: 40px;
+    line-height: 40px;
+    font-weight: bold;
+    padding: 0 38px;
+
+}
+.info {
+    width: 500px;
 }

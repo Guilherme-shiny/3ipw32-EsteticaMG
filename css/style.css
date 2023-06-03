@@ -199,8 +199,20 @@ header {
     line-height: 40px;
     font-weight: bold;
     padding: 0 38px;
-
+    float: left;
+    clear: both;
 }
 .info {
-    width: 500px;
+    width: 950px;
+    display: inline-block;
+    text-align: justify;
+}
+.bgheader{
+    /* background: url(../img/bgsobre.png) 50% -112px / cover no-repeat fixed;*/
+    background-image: url(../img/slider.jpg);
+    position: relative;
+    width: 100%;
+    margin: 20px;
+    height: 200px;
+    background-repeat: no-repeat;
 }

@@ -136,7 +136,7 @@ line-height: 30px
     margin: 70px;
 }
 footer{
-    background-color: #393f44;
+    background-color: #000000;
     color: #fff;
     padding: 50px;
 }
@@ -216,4 +216,11 @@ header {
     height: 200px;
     background-repeat: no-repeat;
     background: url(../img/bgsobre.png);
+}
+textarea {
+    HEIGHT: 60PX;
+    BACKGROUND: #0000;
+    BORDER: NONE;
+    BORDER-BOTTOM: 2PX SOLID #fff;
+    color: white;
 }

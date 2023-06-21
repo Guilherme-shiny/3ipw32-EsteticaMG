@@ -224,6 +224,8 @@ textarea {
     BORDER-BOTTOM: 2PX SOLID #fff;
     color: white;
 }
-
-
-
+.div50 {
+    width: 50;
+    float: left;
+    text-align: center;
+}
